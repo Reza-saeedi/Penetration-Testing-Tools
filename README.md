@@ -10,3 +10,5 @@
  ## Links
 
  - [appsealing.com](https://www.appsealing.com/mobile-app-security-a-comprehensive-guide-to-secure-your-apps/) – Mobile App Security: A comprehensive guide to secure your apps
+ 
+  - [book.hacktricks.xyz](https://book.hacktricks.xyz) – you will find each trick/technique/whatever I have learnt in CTFs, real life apps and reading researches and news.
