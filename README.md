@@ -2,6 +2,12 @@
  A list of awesome penetration testing tools
  
  ## Android Tools
+
+ - [appmon](https://github.com/dpnishant/appmon) – AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
+ 
+  
+  
+ ## Android Tools
  
  - [QARK](https://github.com/linkedin/qark) – Tool to look for several security related Android application vulnerabilities 
  
